@@ -35,11 +35,11 @@
 
 <p align="left" style="background:yellow">
   
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://linkedin.com/in/thadeualves" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/thadeu.dev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
