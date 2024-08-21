@@ -38,8 +38,4 @@
 <a href="https://linkedin.com/in/thadeualves" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-in/thadeualves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-
-<a href="https://instagram.com/thadeu.dev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-@thadeu.dev-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
