@@ -3,7 +3,7 @@
 
 - 📝 Estudante da Universidade Estadual da Paraíba
 
-- 💻  **JavaScript, HTML, CSS, React JS**
+- 💻  **TypeScript, JavaScript, React.js, Next.js, Node.js**
 
 - 👨‍💻 Estudando nesse extato momento
 
